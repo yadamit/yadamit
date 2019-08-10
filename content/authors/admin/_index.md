@@ -54,7 +54,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
-  icon_pack: fas
+  icon_pack: ai
   link: files/Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -67,5 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore. \\
-\\
+I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore.
