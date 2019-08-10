@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Final year undergraduate
+role: Final year undergraduate Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -30,6 +30,9 @@ education:
   - course: B.Tech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2020 (Exp)
+  - course : "Senior Secondary"
+    institution : "Rao Pahlad Singh Sr. Sec. School, Khatod"
+    year : 2016
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
