@@ -18,7 +18,7 @@ organizations:
   url: "//iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforecement learning, computer vision and robotic automation.
+bio: Final year undergrad @ CSE IITK
 
 interests:
 - Reinforcement Learning
@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore.
+I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore, where I worked in SAIT (Samsung Advanced Institute of Technology) team.
+
+I am currently looking for Masters / Research Assistant opportunities. Much of my undergrad research concerns reinforcement learning and computer vision.
