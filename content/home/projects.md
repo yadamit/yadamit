@@ -26,12 +26,20 @@ subtitle = "Research/Course projects"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Computer Vision"
+     tag = "Computer Vision"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Reinforcement Learning"
+     tag = "RL"
+
+   [[content.filter_button]]
+     name = "Robotics"
+     tag = "Robotics"
+
+   [[content.filter_button]]
+     name = "Others"
+     tag = "Others"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
