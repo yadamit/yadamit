@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Bangalore"
   date_start = "2019-05-16"
   date_end = "2019-07-12"
-  description = """Worked on a computer vision based task while being a part of SAIT (Samsung Advanced Institute of Technology) team"""
+  description = """Worked on a computer vision based task while being a part of SAIT (Samsung Advanced Institute of Technology) team."""
 
 [[experience]]
   title = "Research Internship"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "IIT Kanpur"
   date_start = "2018-05-01"
   date_end = "2018-12-31"
-  description = """Worked on a method to control a quadrotor with a neural network trained using reinforcement learning techniques."""
+  description = """Worked on a method to control a quadrotor with neural networks trained using reinforcement learning techniques."""
 
 [[experience]]
   title = "Internship"

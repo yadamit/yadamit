@@ -73,3 +73,5 @@ user_groups:
 I am a final year undergraduate, majoring in Computer Science and Engineering at Indian Institute of Technology Kanpur. At IIT Kanpur, I had the previlege to work on many projects with amazing professors and students. I recently completed my summer internship at Samsung Research Institute Bangalore, where I worked in SAIT (Samsung Advanced Institute of Technology) team.
 
 I am currently looking for Masters / Research Assistant opportunities. Much of my undergrad research concerns reinforcement learning and computer vision.
+
+Download my CV [here]({{< ref "files/Resume.pdf" >}}).
