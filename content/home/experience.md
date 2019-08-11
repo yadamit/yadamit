@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Internship"
+  company = "Samsung Research Institute Bangalore"
+  company_url = "https://research.samsung.com/sri-b"
+  location = "Bangalore"
+  date_start = "2019-05-16"
+  date_end = "2019-07-12"
+  description = """Worked on a computer vision based task while being a part of SAIT (Samsung Advanced Institute of Technology) team"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Internship"
+  company = "Prof. Indranil Saha"
+  company_url = "https://www.cse.iitk.ac.in/users/isaha/"
+  location = "IIT Kanpur"
+  date_start = "2018-05-01"
+  date_end = "2018-12-31"
+  description = """Worked on a method to control a quadrotor with a neural network trained using reinforcement learning techniques."""
 
+[[experience]]
+  title = "Internship"
+  company = "Kritsnam Technologies"
+  company_url = "http://www.kritsnam.in/"
+  location = "IIT Kanpur"
+  date_start = "2017-12-01"
+  date_end = "2018-01-01"
+  description = """Developed a tool for sshing into remotely located unattended IoT devices."""
 +++
