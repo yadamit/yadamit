@@ -74,4 +74,8 @@ I am a final year undergraduate, majoring in Computer Science and Engineering at
 
 I am currently looking for Masters / Research Assistant opportunities. Much of my undergrad research concerns reinforcement learning and computer vision.
 
-Download my CV [here]({{< ref "files/Resume.pdf" >}}).
+<!-- Download my CV [here]({{< ref "/files/Resume.pdf" >}}). -->
+
+{{% alert note %}}
+Download my CV [here]({{< ref "/files/Resume.pdf" >}}).
+{{% /alert %}}
