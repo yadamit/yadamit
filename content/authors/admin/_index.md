@@ -18,7 +18,7 @@ organizations:
   url: "//iitk.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Final year undergrad @ CSE IITK
+bio: ""
 
 interests:
 - Reinforcement Learning
