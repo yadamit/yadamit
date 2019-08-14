@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "For a complete list, kindly see my [CV](files/Resume.pdf)"
+subtitle = "For a complete list, kindly see my [CV](files/CV.pdf)"
 
 [content]
   # Page type to display. E.g. project.

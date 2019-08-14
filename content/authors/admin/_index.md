@@ -29,7 +29,7 @@ education:
   courses:
   - course: B.Tech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
-    year: 2020 (Exp)
+    year: 2020
   - course : "Senior Secondary"
     institution : "Rao Pahlad Singh Sr. Sec. School, Khatod"
     year : 2016
@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/Resume.pdf
+  link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +74,4 @@ I am a final year undergraduate, majoring in Computer Science and Engineering at
 
 I am currently looking for Masters / Research Assistant opportunities. Much of my undergrad research concerns reinforcement learning and computer vision.
 
-Download my CV [here](files/Resume.pdf).
+Download my CV [here](files/CV.pdf).
