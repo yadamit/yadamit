@@ -60,7 +60,7 @@ projects: []
 [![](https://i.imgur.com/uqpPUi5.png)](https://www.youtube.com/watch?v=f3lUEnMaiAU)
 **While watching the above video, I had a few thoughts which I thought would be good to post here. These are not very well arranged and are my own personal.**
 
-In a Jack Ma and Alon Must conversation at Shanghai, Jack Ma [says](https://youtu.be/f3lUEnMaiAU?t=1113) that he wishes for a future where people have to work only for 3 days a week, 4 hours per day. Electricity will give them more time by doing their part of the job. So that they have more time being human beings. So that they can go to dances, beaches, visit more cities and so on.
+In a Jack Ma and Elon Musk conversation at Shanghai, Jack Ma [says](https://youtu.be/f3lUEnMaiAU?t=1113) that he wishes for a future where people have to work only for 3 days a week, 4 hours per day. Electricity will give them more time by doing their part of the job. So that they have more time being human beings. So that they can go to dances, beaches, visit more cities and so on.
 
 **My thoughts:**
 
