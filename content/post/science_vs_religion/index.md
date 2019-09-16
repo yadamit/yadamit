@@ -41,29 +41,29 @@ projects: []
 ---
 **The following thought process is inspired from a "Philosophy of Science" course that I am currently undertaking.**
 
-Why we believe in science?  
-Our belief now a days is more inclined to science than religion. Because we think that scientific methods prove the theories. Because, medicines cure peoeple, cars drive, planes fly etc. [Watch this!](https://www.youtube.com/watch?v=0OtFSDKrq88)
+Why do we believe in science?  
+Our belief nowadays is more inclined towards science than religion. Because we think that scientific methods prove the theories. Because medicines cure peoeple, cars drive, planes fly, etc. [Watch this!](https://www.youtube.com/watch?v=0OtFSDKrq88)
 
-But let's see how the things from a different perspective.
+But now let's see things from a different perspective.
 <!-- But here I argue that science is no better than religion. -->
 <!-- How? -->
-Scientists make a drug to cure a disease, which works. But after some time they realize it's side effects. Oh it doesn't work. Not good.
-They invent plastic. They think, wow such a wonderful invention, good for the humankind. But soon they realize that they have completely f**ked up the humankind and now they are on the verge of extiction.
-So they make something,realize their mistake, improve it and so on. So that they can give better justifications. So their predictions supposedly keep getting better. Keep refining theories with time.
+Scientists make a drug to cure a disease, which works. But after some time they realize it's side effects. Oh, it doesn't work. Not good.
+They invent plastic. They think, wow such a wonderful invention, good for the humankind. But soon they realize that they have completely f**ked up the humankind and now they are on the verge of extinction.
+So they make something, realize their mistake, improve it and so on. So that they can give better justifications. So their predictions supposedly keep getting better. Refining theories with time.
 
 They say, hydrogen and oxygen together make water. So we go and mix hydrogen and oxygen. It doesn't make water. Then they say, oh, you need a certain pressure and temperature, only then it will work. Still it doesn't work. Then they say, oh, you also need such and such catalyst.
-Okay, so you see what's happeneing.
+Okay, so you see what's happening.
 <!-- That is also how the religion works. -->
 
-So science is just trail and error. Nothing more. You might say, so is the religion. I agree.  
+So science is just trial and error. Nothing more. You might say, so is the religion. I agree.  
 But religion has been followed for thousands of years (or even millions). While science is just a few centuries old.
-So religious theories have been continuously refined over the time. So I believe that religion has become so perfect till now that it is actually capable of making better prediction and giving better justifications.  
+So religious theories have been continuously refined over time. So I believe that religion has become so perfect till now that it is actually capable of making better predictions and giving better justifications.  
 See, people have been following religion for so much time because it worked for them. When they did some witchcraft, it worked. When they did a "havan", it worked (mostly).
-Notion of GOD worked! Notion of Hell and Heaven worked. People were afraid to do wrong things because of such notions. So it worked.
+Notion of GOD worked! Notion of Hell and Heaven worked. People were afraid to do the wrong things because of such notions. So it worked.
 
-Only problem with religion, according to me, is that its justifications are not easily observable by our five senses.Like, if GOD is there, why he is not visible. 
+The only problem with religion, according to me, is that its justifications are not easily observable by our five senses. Like, if GOD is there, why he is not visible. 
 
-There are still many things which science hasn't explained yet. But religion does. For example, rebirth, life after death, consciousness etc.
+There are still many things which science hasn't explained yet. But religion does — for example, rebirth, life after death, consciousness etc.
 So there is no way that science is better than religion.
 
 
