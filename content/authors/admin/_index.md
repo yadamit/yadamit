@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Final year undergraduate Computer Science and Engineering
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology Kanpur
-  url: "//iitk.ac.in"
+- name: Samsung Research Institute Bangalore
+  url: "https://research.samsung.com/sri-b"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
