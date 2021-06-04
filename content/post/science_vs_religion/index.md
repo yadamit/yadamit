@@ -61,10 +61,10 @@ So religious theories have been continuously refined over time. So I believe tha
 See, people have been following religion for so much time because it worked for them. When they did some witchcraft, it worked. When they did a "havan", it worked (mostly).
 Notion of GOD worked! Notion of Hell and Heaven worked. People were afraid to do the wrong things because of such notions. So it worked.
 
-The only problem with religion, according to me, is that its justifications are not easily observable by our five senses. Like, if GOD is there, why he is not visible. 
+The main issue with religion, according to me, is that its justifications are not easily observable by our five senses. Like, if GOD exists, why is he not visible?
 
 There are still many things which science hasn't explained yet. But religion does — for example, rebirth, life after death, consciousness etc.
-So there is no way that science is better than religion.
+So there is no way that science is any better than religion.
 
 
 If you have a different view on this, kindly drop me an [email](mailto:yamit@iitk.ac.in). I would be happy to see it through your perspective.

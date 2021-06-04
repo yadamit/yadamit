@@ -30,9 +30,9 @@ education:
   - course: B.Tech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2020
-  - course : "Senior Secondary"
-    institution : "Rao Pahlad Singh Sr. Sec. School, Khatod"
-    year : 2016
+  - course: Exchange semester
+    institution: Aalto University School of Science, Finland
+    year: 2020
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
