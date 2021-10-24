@@ -30,7 +30,7 @@ education:
   - course: B.Tech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2020
-  - course: Exchange semester
+  - course: Exchange student
     institution: Aalto University School of Science, Finland
     year: 2020
   # - course: MEng in Artificial Intelligence
