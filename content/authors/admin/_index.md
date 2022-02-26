@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am working as a software engineer at [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I majored in Computer Science and Engineering from [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/). At IIT Kanpur, I had the previlege to work on many projects with amazing professors and colleagues. 
+I am working as a software engineer at [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I majored in Computer Science and Engineering from [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/). At IIT Kanpur, I had the privilege to work on many projects with amazing professors and colleagues. 
 At the end of my third year, I did a summer internship at Samsung Research Institute Bangalore. I also had a wonderful opportunity to study at [Aalto University, Finland](https://www.aalto.fi/en) for one semester as an exchange student.
 
 Much of my undergrad research concerns reinforcement learning and computer vision. Apart from academics, I enjoy cycling and playing Ultimate.
